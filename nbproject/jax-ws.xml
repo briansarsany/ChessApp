@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="Game">
+      <implementation-class>com.game.api.Game</implementation-class>
+    </service>
+    <service name="Board">
+      <implementation-class>com.game.api.Board</implementation-class>
+    </service>
+    <service name="Piece">
+      <implementation-class>com.game.api.Piece</implementation-class>
+    </service>
+    <service name="Spot">
+      <implementation-class>com.game.api.Spot</implementation-class>
+    </service>
+    <service name="Player">
+      <implementation-class>com.game.api.Player</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
