@@ -76,15 +76,5 @@ public class Game {
 
 
 
-//    private String message = "Hello, ";
-//
-//    public void Game() {}
-//
-//    @WebMethod
-//    public String sayHello(String name) {
-//        return message + name + ".";
-//    }
 
-    // Add business logic below. (Right-click in editor and choose
-    // "Insert Code > Add Business Method")
 }
